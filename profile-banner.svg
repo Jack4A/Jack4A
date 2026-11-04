@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 250" width="880" height="250" role="img" aria-labelledby="title">
+  <title id="title">Jack · @Jackkakaya · Just for fun</title>
+  <defs>
+    <linearGradient id="background" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop stop-color="#151c24"/>
+      <stop offset="1" stop-color="#0c1218"/>
+    </linearGradient>
+    <linearGradient id="signal" x2="1" y2="0" gradientUnits="objectBoundingBox">
+      <stop stop-color="#4b827e"/>
+      <stop offset=".63" stop-color="#91e4cd"/>
+      <stop offset="1" stop-color="#b4f5dc"/>
+    </linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#23313b" stroke-width="1"/>
+    </pattern>
+    <clipPath id="panel">
+      <rect x="1" y="1" width="878" height="248" rx="16"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#panel)">
+    <rect width="880" height="250" fill="url(#background)"/>
+    <path d="M0 43.5h880M0 205.5h880M495.5 44v161" stroke="#2b3944"/>
+    <circle cx="30" cy="22" r="4" fill="#f5b786"/>
+    <circle cx="46" cy="22" r="4" fill="#91e4cd"/>
+    <circle cx="62" cy="22" r="4" fill="#596e7d"/>
+    <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+      <text x="83" y="27" fill="#a9b9c7" font-size="14">@Jackkakaya</text>
+      <text x="38" y="87" fill="#91e4cd" font-size="14" font-weight="700" letter-spacing="2.2">HELLO, WORLD</text>
+      <text x="36" y="157" fill="#f3f7fa" font-size="76" font-weight="700" letter-spacing="-5">Jack</text>
+      <text x="40" y="185" fill="#b4c3cf" font-size="19">Just for fun.</text>
+      <text x="39" y="233" fill="#b4c3cf" font-size="14" letter-spacing="1.6">RUST  /  SWIFT  /  GO</text>
+    </g>
+    <rect x="525" y="65" width="322" height="120" rx="8" fill="#101820" stroke="#2b3944"/>
+    <rect x="537" y="77" width="298" height="96" fill="url(#grid)"/>
+    <path d="M537 133h298" stroke="#3b4d59" stroke-dasharray="3 6"/>
+    <path d="M548 143h29l15-14 13 14h35l15-35 17 47 20-39 16 15h23l11-10 13 10h67"
+      fill="none" stroke="url(#signal)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="822" cy="131" r="5" fill="#b4f5dc"/>
+    <path d="M817 221h10v12h-10zM832 217h10v16h-10z" fill="#91e4cd" opacity=".75"/>
+  </g>
+  <rect x="1" y="1" width="878" height="248" rx="16" fill="none" stroke="#435360"/>
+</svg>
