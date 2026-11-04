@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./profile-banner.svg" width="880" alt="Jack · @jackinprod · Just for fun">
+  <img src="./profile-banner.svg" width="880" alt="Jack · @Jack4A · Just for fun">
 </p>
 
 ## From C++ Backend Engineering to AI Agents
@@ -18,7 +18,7 @@ Let's build useful, fun AI products together.
 
 | Project | What it does | Built with |
 | :--- | :--- | :--- |
-| **[ShowMac](https://github.com/jackinprod/ShowMac)** | Monitor your Mac from the menu bar, chart sensor readings, and control fan speeds. | Swift · SwiftUI |
-| **[NeteaseCloudMusicGoApi](https://github.com/jackinprod/NeteaseCloudMusicGoApi)** | A Go API service for NetEase Cloud Music. | Go · Gin |
-| **[YourAI-Harness](https://github.com/jackinprod/YourAI-Harness)** | A terminal coding agent with a modular runtime and configurable model providers. | Rust · TUI |
-| **[rust-genai](https://github.com/jackinprod/rust-genai)** | My fork of a Rust client for working with multiple generative AI providers. | Rust |
+| **[ShowMac](https://github.com/Jack4A/ShowMac)** | Monitor your Mac from the menu bar, chart sensor readings, and control fan speeds. | Swift · SwiftUI |
+| **[NeteaseCloudMusicGoApi](https://github.com/Jack4A/NeteaseCloudMusicGoApi)** | A Go API service for NetEase Cloud Music. | Go · Gin |
+| **[YourAI-Harness](https://github.com/Jack4A/YourAI-Harness)** | A terminal coding agent with a modular runtime and configurable model providers. | Rust · TUI |
+| **[rust-genai](https://github.com/Jack4A/rust-genai)** | My fork of a Rust client for working with multiple generative AI providers. | Rust |
