@@ -2,13 +2,13 @@
   <img src="./profile-banner.svg" width="880" alt="Jack · @Jackkakaya · Just for fun">
 </p>
 
-## 从 C++ 后端到 Personal Agent
+## From C++ Backend Engineering to AI Agents
 
-我是 Jack，一名 C++ 后端开发工程师，擅长构建高可用、高并发、高性能的分布式服务。
+I'm Jack, a C++ backend engineer specializing in highly available, high-performance distributed services built to handle heavy concurrent workloads.
 
-现在，我正把做后端时对可靠性、性能和可观测性的关注带到 Agent 开发中。我正在维护 **YourAI**，一个 Personal Agent 项目。我想探索的是，怎样让 Agent 理解个人的目标，调用合适的工具，把真实任务从想法推进到结果。
+I'm now bringing that systems engineering mindset to AI agents. I maintain **YourAI**, a personal agent project where I explore how agents can understand what someone wants, choose the right tools, and carry real tasks through to completion.
 
-我也是一名 **AGI 探索者**。我对 AI 的好奇心不限于写代码，也想看看它会怎样改变我们学习、工作和创造的方式。
+I'm especially interested in new kinds of agent products and the ways they could change how people work, learn, and create. Building agents is also my hands-on way of exploring the path toward AGI.
 
 ### Selected projects
 
