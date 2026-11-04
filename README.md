@@ -2,7 +2,7 @@
   <img src="./profile-banner.svg" width="880" alt="Jack · @Jack4A">
 </p>
 
-I'm Jack, a C++ backend engineer now building AI agents. I'm growing into a full-stack developer so I can take agent ideas from prototype to products people can use.
+I'm Jack, a C++ backend engineer now building AI agents. I work at Alibaba Cloud and hold a master's degree in software engineering from Huazhong University of Science and Technology (HUST). I'm growing as a full-stack developer so I can take agent ideas from prototype to products people can use.
 
 ## Currently building YourAI Harness
 
