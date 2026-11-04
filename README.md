@@ -10,6 +10,10 @@ I'm now bringing that systems engineering mindset to AI agents. I maintain **You
 
 I'm especially interested in new kinds of agent products and the ways they could change how people work, learn, and create. Building agents is also my hands-on way of exploring the path toward AGI.
 
+I bring a product mindset to engineering, starting with who I'm building for and what would make their day easier. I'm growing into a full-stack developer so I can take an idea from prototype to a product people can use.
+
+Let's build useful, fun AI products together.
+
 ### Selected projects
 
 | Project | What it does | Built with |
