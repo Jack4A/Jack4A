@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 250" width="880" height="250" role="img" aria-labelledby="title">
-  <title id="title">Jack · @Jackkakaya · Just for fun</title>
+  <title id="title">Jack · @Jack4A · Just for fun</title>
   <defs>
     <linearGradient id="background" x2="1" y2="1" gradientUnits="objectBoundingBox">
       <stop stop-color="#151c24"/>
@@ -24,7 +24,7 @@
     <circle cx="46" cy="22" r="4" fill="#91e4cd"/>
     <circle cx="62" cy="22" r="4" fill="#596e7d"/>
     <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
-      <text x="83" y="27" fill="#a9b9c7" font-size="14">@Jackkakaya</text>
+      <text x="83" y="27" fill="#a9b9c7" font-size="14">@Jack4A</text>
       <text x="38" y="87" fill="#91e4cd" font-size="14" font-weight="700" letter-spacing="2.2">HELLO, WORLD</text>
       <text x="36" y="157" fill="#f3f7fa" font-size="76" font-weight="700" letter-spacing="-5">Jack</text>
       <text x="40" y="185" fill="#b4c3cf" font-size="19">Just for fun.</text>
